@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Smart Women Safety Ring</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet"
+href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+</head>
+
+<body>
+
+<h1>💍 Smart Women Safety Ring Dashboard</h1>
+
+<div class="container">
+
+<button onclick="activateSOS()" class="sos">
+🚨 Activate SOS
+</button>
+
+<button onclick="startRecording()" class="record">
+🎤 Start Recording
+</button>
+
+<button onclick="fakeSMS()" class="sms">
+📩 Send Emergency SMS
+</button>
+
+</div>
+
+<div id="map"></div>
+
+<div id="status"></div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
