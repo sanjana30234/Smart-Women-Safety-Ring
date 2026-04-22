@@ -4,6 +4,11 @@ An IoT-based wearable safety device designed to enhance personal security by sen
 
 
 
+ https://sanjana30234.github.io/Smart-Women-Safety-Ring/
+
+
+
+
 ##  Problem Statement
 In emergency situations, it is often difficult to manually call for help. This project solves that by providing a quick SOS activation system in a wearable form.
 
